@@ -1,0 +1,57 @@
+body {
+    color: rgb(93, 94, 93);
+    background-color: rgb(238, 230, 230);
+    font-family: cursive;
+    /* font-family: 'Courier New', Courier, monospace; */
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex-grow: 1;
+}
+
+footer {
+    color: rgb(100, 100, 100);
+    border-top: 1px solid;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+
+header {
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+
+H1 {
+    color: rgb(88, 88, 88);
+    font-size: 64px;
+    margin-bottom: 16px;
+}
+
+header a {
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    margin-right: 16px;
+}
+
+.robo {
+    width: 150px;
+}
+
+input {
+    border: 1px solid rgb(204, 181, 185);
+    padding: 8px;
+    font-family: cursive;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid rgb(204, 181, 185);
+    padding: 8px;
+    font-family: cursive;
+}
