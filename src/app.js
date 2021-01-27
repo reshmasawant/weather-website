@@ -36,7 +36,7 @@ app.get('/about', (req, res) => {
 
     res.render('about', {
         title: 'About Page',
-        reason: 'Picture of Baymax.',
+        reason: 'About the app',
         name: 'Reshma Sawant'
     })
 })

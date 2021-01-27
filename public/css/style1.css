@@ -1,8 +1,7 @@
 body {
     color: rgb(93, 94, 93);
     background-color: rgb(238, 230, 230);
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     max-width: 650px;
     margin: 0 auto;
     padding: 0 16px;
@@ -40,18 +39,18 @@ header a {
 }
 
 .robo {
-    width: 150px;
+    width: 290px;
 }
 
 input {
     border: 1px solid rgb(204, 181, 185);
     padding: 8px;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 button {
     cursor: pointer;
     border: 1px solid rgb(204, 181, 185);
     padding: 8px;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
