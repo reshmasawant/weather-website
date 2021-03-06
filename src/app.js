@@ -7,7 +7,7 @@ const forecast = require('./utils/forecast')
 const app = express()
 const port = process.env.PORT || 3000
 
-//define paths for express.config_cool but omkar is more cool still we dont like you.
+//define paths for express.config_cool but omkar is more cool still we dont like you pan he still gets to honka honka you.
 const dirstatic = path.join(__dirname, '../public')
 const partialspath = path.join(__dirname, '../partials')
 //set handler engine,view location and partials loction
